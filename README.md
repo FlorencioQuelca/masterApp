@@ -1,3 +1,3 @@
-# programa frontend master
+# Modelo matematico
 
 by : Florencio Quelca Mamani
